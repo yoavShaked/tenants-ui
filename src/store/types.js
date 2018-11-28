@@ -1,0 +1,5 @@
+export const REGISTER = 'REGISTER';
+export const FAILD_REGISTER = 'FAILD_REGISTER';
+export const FETCH_TENANTS = 'FETCH_TENANTS';
+export const FAILD_FETCH_TENANTS = 'FAILD_FETCH_TENANTS';
+
